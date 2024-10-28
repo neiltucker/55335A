@@ -27,5 +27,4 @@ After completing this course, students will be able to:
 
 This course empowers data professionals to extract maximum value from their datasets without the hassle of moving or copying data from its source. By learning to use Python, R, or Java to perform machine learning tasks directly on the SQL Server instance, students will unlock the full value of their data while gaining security, performance and efficient workflow advantages.
 <br>   
-<br>   
 **Note:** The first module of the course covering Python and R material is free with courses 55069A, 55315A, 55316A, 55317A and 55318A.  General release of the courseware on www.softwaretutorialservices.com will be by Monday, November 11th, 2024.
