@@ -26,3 +26,5 @@ After completing this course, students will be able to:
 - Understand the advantages of on-premises ML solutions
 
 This course empowers data professionals to extract maximum value from their datasets without the hassle of moving or copying data from its source. By learning to use Python, R, or Java to perform machine learning tasks directly on the SQL Server instance, students will unlock the full value of their data while gaining security, performance and efficient workflow advantages.
+
+Note: General release date is November 11th, 2024
