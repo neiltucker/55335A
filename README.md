@@ -7,7 +7,7 @@ This lab intensive one-day course helps database administrators, data scientists
 ## Prerequisites
 - A basic knowledge of SQL
 - A basic knowledge of command-line scripting (PowerShell, Shell or Batch)
-- Working knowledge of one of the programming languages (Python, R or Java)
+- A basic knowledge of one of the programming languages (Python, R or Java)
 - Working knowledge of SQL Server database management
 
 ## Audience
