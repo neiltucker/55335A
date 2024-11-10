@@ -1,4 +1,4 @@
-# 55335A - SQL Server Machine Learning Services using Python, R and Java
+# 55335A - SQL Server Machine Learning using Python, R and Java
 
 **Courseware Access:** [https://www.softwaretutorialservices.com/course/55335a](https://www.softwaretutorialservices.com/course/55335a)
 
