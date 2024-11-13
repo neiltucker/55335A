@@ -252,7 +252,8 @@ Practice joining tables to retrieve data across multiple tables. Complete each o
 
 ---
 
-## Challenge Section (Answers in 55335A-ENU_SQLSELECTTutorial_Answers.md)
+## Challenge Section 
+(Answers in 55335A-ENU_SQLSELECTTutorial_Answers.md)
 
 1. **Joining with Projects Table**  
    Show each project name along with the department name and budget for each project.
@@ -268,7 +269,8 @@ Practice joining tables to retrieve data across multiple tables. Complete each o
 
 ---
 
-## Knowledge Check (Answers in 55335A-ENU_SQLSELECTTutorial_Answers.md)
+## Knowledge Check 
+(Answers in 55335A-ENU_SQLSELECTTutorial_Answers.md)
 
 1. How would you filter to show only employees hired after January 1, 2020?
 2. Which command helps sort employees by last name in alphabetical order?
