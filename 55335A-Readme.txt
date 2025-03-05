@@ -5,10 +5,10 @@ Courseware Access:
 https://www.softwaretutorialservices.com/course/55335a
 
 Course Overview:
-This lab intensive one-day course helps developers and database administrators to utilize the full potential of SQL Server Machine Learning Services using Python, R, and Java. Participants will gain hands-on experience by creating Machine Learning (ML) tasks on SQL Server to get more value from their data.
+This lab intensive one-day course helps developers and database administrators to utilize the full potential of SQL Server Machine Learning Services using Python, R, and Java. Participants will gain hands-on experience by creating Machine Learning (ML) tasks on SQL Server to get more value from their data.  No previous programming experience is necessary.  The focus is on using SQL Server ML in any or all three programming languages.
 
 Audience:
-Database administrators and developers who want to use ML tools on data residing in SQL Server databases. A basic knowledge of T-SQL and one of the three programming languages used for the labs (Python or R or Java) is recommended. This is a SQL Server Machine Learning course. Although some programming is necessary for some of the exercises, the focus of the material is the SQL Server ML service.
+Database administrators and developers who want to use ML tools on data residing in SQL Server databases. A basic knowledge of T-SQL and one of the three programming languages used for the labs (Python or R or Java) is recommended. This is a SQL Server Machine Learning course. Although some coding is done during some of the exercises, the code needed for these parts is provided with the student materials.
 
 Learning Objectives:
 After completing this course, students will be able to:
