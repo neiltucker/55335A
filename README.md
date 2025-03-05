@@ -2,7 +2,7 @@
 
 **Courseware Access:** [https://www.softwaretutorialservices.com/course/55335a](https://www.softwaretutorialservices.com/course/55335a)
 
-This lab intensive one-day course helps database administrators, data scientists and developers to utilize the full potential of SQL Server Machine Learning Services using Python, R, and Java. Participants will gain hands-on experience by creating Machine Learning (ML) tasks on SQL Server to get more value from their data.  This course is designed for SQL Server 2022 and newer versions.  The format of the class can be Instructor-led or Workshop.
+This lab intensive one-day course helps database administrators, data scientists and developers to utilize the full potential of SQL Server Machine Learning Services using Python, R, and Java. Participants will gain hands-on experience by creating Machine Learning (ML) tasks on SQL Server to get more value from their data.  Some coding is done during the exercises, but the necessary scripts are provided with the student materials so students do not need prior programming experience.  The format of the class can be Instructor-led or Workshop.
 
 ## Prerequisites
 - A basic knowledge of SQL
@@ -27,4 +27,4 @@ After completing this course, students will be able to:
 
 This course empowers data professionals to extract maximum value from their datasets without the hassle of moving or copying data from its source. By learning to use Python, R, or Java to perform machine learning tasks directly on the SQL Server instance, students will unlock the full value of their data while gaining security, performance and efficient workflow advantages.
 <br>   
-**Note:** The first module of the course covering Python and R material is free with courses 55069A, 55315A, 55316A, 55317A and 55318A.  General release of the courseware on www.softwaretutorialservices.com/courses will be by Monday, November 11th, 2024.
+**Note:** The first module of the course covering Python and R material is free with courses 55069A, 55315A, 55316A, 55317A and 55318A.  
